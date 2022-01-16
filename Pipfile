@@ -7,11 +7,11 @@ name = "pypi"
 requests = "*"
 beautifulsoup4 = "*"
 fastapi = "*"
-futures = "*"
 lxml = "*"
 pep8 = "*"
 pycodestyle = "*"
 autopep8 = "*"
+uvicorn = "*"
 
 [dev-packages]
 
