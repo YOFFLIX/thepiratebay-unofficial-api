@@ -9,6 +9,9 @@ beautifulsoup4 = "*"
 fastapi = "*"
 futures = "*"
 lxml = "*"
+pep8 = "*"
+pycodestyle = "*"
+autopep8 = "*"
 
 [dev-packages]
 
